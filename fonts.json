@@ -1,0 +1,10 @@
+{"schema":1,"source":"Google Fonts (github.com/google/fonts), SIL Open Font License 1.1 only",
+"fonts":[
+ {"family":"Noto Serif Malayalam","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifmalayalam/NotoSerifMalayalam%5Bwght%5D.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifmalayalam/OFL.txt","licenseName":"OFL-1.1","weight":"100 900"},
+ {"family":"Noto Sans Malayalam UI","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmalayalamui/NotoSansMalayalamUI%5Bwdth,wght%5D.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/notosansmalayalamui/OFL.txt","licenseName":"OFL-1.1","weight":"100 900"},
+ {"family":"Baloo Chettan 2","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/baloochettan2/BalooChettan2%5Bwght%5D.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/baloochettan2/OFL.txt","licenseName":"OFL-1.1","weight":"400 800"},
+ {"family":"Anek Malayalam","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/anekmalayalam/AnekMalayalam%5Bwdth,wght%5D.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/anekmalayalam/OFL.txt","licenseName":"OFL-1.1","weight":"100 800"},
+ {"family":"Manjari","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/manjari/Manjari-Bold.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/manjari/OFL.txt","licenseName":"OFL-1.1","weight":"700"},
+ {"family":"Gayathri","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/gayathri/Gayathri-Bold.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/gayathri/OFL.txt","licenseName":"OFL-1.1","weight":"700"},
+ {"family":"Chilanka","file":"https://raw.githubusercontent.com/google/fonts/main/ofl/chilanka/Chilanka-Regular.ttf","license":"https://raw.githubusercontent.com/google/fonts/main/ofl/chilanka/OFL.txt","licenseName":"OFL-1.1","weight":"400"}
+]}
