@@ -1,3 +1,27 @@
-{"schema":1,"packs":[
- {"id":"monsoon","name":"Monsoon / മഴക്കാലം","description":"Rainy-day templates with cloud and lightning stickers","file":"packs/monsoon.json","version":1},
- {"id":"nadan","name":"Nadan / നാടൻ","description":"Kerala market and Onam styles with a coconut-tree sticker","file":"packs/nadan.json","version":1}]}
+{
+ "schema": 1,
+ "packs": [
+  {
+   "id": "monsoon",
+   "name": "Monsoon / മഴക്കാലം",
+   "description": "Rainy-day templates with cloud and lightning stickers",
+   "file": "packs/monsoon.json",
+   "version": 1
+  },
+  {
+   "id": "nadan",
+   "name": "Nadan / നാടൻ",
+   "description": "Kerala market and Onam styles with a coconut-tree sticker",
+   "file": "packs/nadan.json",
+   "version": 1
+  },
+  {
+   "id": "alternates",
+   "name": "Hand-drawn style alternates / കൈയെഴുത്ത്",
+   "description": "48 stylised syllable shapes (stacked signs, rounded, wobbled) for നല്ല, ചായ, കാറ്റും, മഴയും, നേരം, മലയാളം, ഓണം. Procedurally generated from Baloo Chettan 2 outlines, OFL-1.1.",
+   "file": "packs/alternates.json",
+   "version": 1,
+   "license": "OFL-1.1"
+  }
+ ]
+}
